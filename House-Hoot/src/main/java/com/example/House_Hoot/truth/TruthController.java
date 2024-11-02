@@ -1,6 +1,8 @@
 package com.example.House_Hoot.truth;
 
 import com.example.House_Hoot.Common.MakerChecker.MakerRequest;
+import com.example.House_Hoot.Dare.Dare;
+import com.example.House_Hoot.Dare.DareBV;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
